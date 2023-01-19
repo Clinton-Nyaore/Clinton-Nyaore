@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Clinton Nyaore</h1>
 <h3 align="center">A passionate Machine Learning Engineer from Kenya</h3>
 
-<img align="right" alt="coding" width="100%" src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif">
+<img align="right" alt="coding" width="400" src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clinton-nyaore&label=Profile%20views&color=0e75b6&style=flat" alt="clinton-nyaore" /> </p>
 
