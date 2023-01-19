@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Clinton Nyaore</h1>
 <h3 align="center">A passionate Machine Learning Engineer from Kenya</h3>
 
-<img align="center" alt="coding" width="400" src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif">
+<img align="right" alt="coding" width="350" src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clinton-nyaore&label=Profile%20views&color=0e75b6&style=flat" alt="clinton-nyaore" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=clinton-nyaore" alt="clinton-nyaore" /></a> </p>
 
 - 🌱 I’m currently learning **PyTorch, Flask, Keras, C++**
 
@@ -18,6 +16,8 @@
 - 📄 Know about my experiences [https://tropic-bigamies.000webhostapp.com/](https://tropic-bigamies.000webhostapp.com/)
 
 - ⚡ Fun fact **I think am funny**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=clinton-nyaore" alt="clinton-nyaore" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
