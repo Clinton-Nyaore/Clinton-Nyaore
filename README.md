@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clinton-nyaore&label=Profile%20views&color=0e75b6&style=flat" alt="clinton-nyaore" /> </p>
 
-- 🌱 I’m currently learning **PyTorch, Flask, Keras, C++**
+- 🌱 I’m currently learning **GenAI, LLM Fine-tuning and GeoAI**
 
 - 👨‍💻 All of my projects are available at [https://tropic-bigamies.000webhostapp.com/](https://tropic-bigamies.000webhostapp.com/)
 
