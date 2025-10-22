@@ -1,7 +1,7 @@
 ![logo](https://github.com/Clinton-Nyaore/Clinton-Nyaore/blob/main/Blog.png)
 
 <h1 align="center">Hi 👋, I'm Clinton Nyaore</h1>
-<h3 align="center">A passionate Machine Learning Engineer from Kenya</h3>
+<h3 align="center">A passionate Data Scientist from Kenya</h3>
 
 <img align="right" alt="coding" width="350" src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif">
 
